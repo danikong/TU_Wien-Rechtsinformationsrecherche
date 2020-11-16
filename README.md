@@ -1,3 +1,3 @@
 # Uebungsaufgaben von Rechtsinformationsrecherche im Internet
 
-[Ersten Uebung](file://../01/ue.md)
+[Ersten Uebung](../01/ue.md)
