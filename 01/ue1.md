@@ -37,7 +37,7 @@ _(Rechercheprozess: suchen im RIS nach COVID-19-Maßnahmenverordnung)_
 
 -   **Aufgrund welchen Gesetzes**
 
-        [Link](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010625&FassungVom=2020-11-16&Artikel=&Paragraf=118&Anlage=&Uebergangsrecht=)
+    [Link](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010625&FassungVom=2020-11-16&Artikel=&Paragraf=118&Anlage=&Uebergangsrecht=)
 
 -   **Von welchen Personen wurde der Initiativantrag zur Änderung eingebracht**
 
