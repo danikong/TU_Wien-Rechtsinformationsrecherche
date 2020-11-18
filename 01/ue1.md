@@ -110,9 +110,15 @@ und Industriebetriebes Verwendung finden, während folgender Zeiten
 verboten: (…)_
 (3 Punkte)
 -   **In welcher Rechtsvorschrift ist dies geregelt**
--   **Wie lautet die Geschäftszahl der Verordnung**
--   **Wann tritt dies in Kraft**
 
+    [link engerwitzdorf](https://www.engerwitzdorf.at/Leben-in-Engerwitzdorf/Umwelt/Laerm/Rasenmaeherverbot)
+
+    Aufgrund des §4 des Oö. Polizeistrafgesetzes idgF.
+
+-   **Wie lautet die Geschäftszahl der Verordnung**
+
+-   **Wann tritt dies in Kraft**
+    Diese Verordnung tritt mit 01.09.1994 in Kraft. Die bisherigen Verordnungen des Gemeinderates vom 25.05.1993 bzw. 19.12.1975 treten außer Kraft.
 * * *
 
 ## Beispiel 6
@@ -144,13 +150,40 @@ und in welcher Hauptgruppe ist Forschung gelistet**
 und 79/08 und in welcher Hauptgruppe ist Rechtswissenschaften gelistet**
 (2 Punkte)
 
+
+# Index???
+
+7 SCHULEN, WISSENSCHAFT, KIRCHE, KULTUR, SPORT</br>
+
+72 WISSENSCHAFT, HOCHSCHULEN _(Hauptgruppe)_</br>
+72/04 Studienrichtung Rechtswissenschaft
+
+
+
+79 VÖLKERRECHTLICHE VERTRÄGE _(Hauptgruppe)_</br>
+    79/08 Rechtswissenschaft
+
+
 * * *
 
 ## Beispiel 8
-(3 Punkte)
+(3 Punkte)<br>
+[ris abfrage](https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Gesamtabfrage&SearchInAsylGH=False&SearchInAvn=False&SearchInAvsv=False&SearchInBegut=False&SearchInBgblAlt=False&SearchInBgblAuth=False&SearchInBgblPdf=True&SearchInBks=False&SearchInBundesnormen=False&SearchInDok=False&SearchInDsk=False&SearchInErlaesse=False&SearchInGbk=False&SearchInGemeinderecht=False&SearchInJustiz=False&SearchInKmGer=False&SearchInBvwg=False&SearchInLvwg=False&SearchInLgbl=False&SearchInLgblNO=False&SearchInLgblAuth=False&SearchInLandesnormen=False&SearchInNormenliste=False&SearchInPruefGewO=False&SearchInPvak=False&SearchInRegV=False&SearchInSpg=False&SearchInUbas=False&SearchInUmse=False&SearchInUpts=False&SearchInUvs=False&SearchInVerg=False&SearchInVfgh=False&SearchInVwgh=False&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=374%2f1997&Position=1&SkipToDocumentPage=true)<br>
+[BGBl 374/1997](https://www.ris.bka.gv.at/eli/bgbl/ii/1997/374/P21/NOR40222579)<br>
+[PDF BGBl 374/1997](https://www.ris.bka.gv.at/Dokumente/BgblPdf/1997_374_2/1997_374_2.pdf)<br>
 -   **Wie lautet die Kurzinformation des BGBl 374/1997**
+
+    Kurzinformation: "374. Verordnung: Suchtgiftverordnung – SV:
+
 -   **In welchem Teil des BGBL kundgemacht**
+
+    BGBl. II Nr. 374/1997, d.h. aus Teil 2
+
 -   **Handelt es sich dabei um eine authentische Fassung**
+
+    Nein, authentische Fassungen sind erst ab 2004.
+    [Link](https://ris.bka.gv.at/Bgbl-Auth/)
+
 
 * * *
 
@@ -168,7 +201,17 @@ Nach § 2 Abs 3 dieser Verordnung hat eine Aufklärung insbesondere
 über die erforderliche Nachbehandlung der tätowierten Körperregion,
 mögliche unerwünschte Reaktionen nach Vornahme der Tätowierung wie
 allergische und entzündliche Reaktionen zu erfolgen._ (4 Punkte)
+
+[bgbl 139/2003](https://www.ris.bka.gv.at/Dokumente/BgblPdf/2003_139_2/2003_139_2.pdf)<br>
+[ris abfrage](https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Gesamtabfrage&SearchInAsylGH=False&SearchInAvn=False&SearchInAvsv=False&SearchInBegut=False&SearchInBgblAlt=False&SearchInBgblAuth=False&SearchInBgblPdf=True&SearchInBks=False&SearchInBundesnormen=False&SearchInDok=False&SearchInDsk=False&SearchInErlaesse=False&SearchInGbk=False&SearchInGemeinderecht=False&SearchInJustiz=False&SearchInKmGer=False&SearchInBvwg=False&SearchInLvwg=False&SearchInLgbl=False&SearchInLgblNO=False&SearchInLgblAuth=False&SearchInLandesnormen=False&SearchInNormenliste=False&SearchInPruefGewO=False&SearchInPvak=False&SearchInRegV=False&SearchInSpg=False&SearchInUbas=False&SearchInUmse=False&SearchInUpts=False&SearchInUvs=False&SearchInVerg=False&SearchInVfgh=False&SearchInVwgh=False&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=139%2f2003&Position=1&SkipToDocumentPage=true)<br>
+[]()<br>
+[]()<br>
+[]()<br>
+
+![](img/bsp09_01.png)
+
 -   **Welches Gericht hat entschieden**
+
 -   **Wie lautet die Geschäftszahl der Entscheidung**
 -   **Wo wurde die Verordnung kundgemacht**
 -   **Wann erfolgte die letzte Änderung der Verordnung**
@@ -183,7 +226,18 @@ Der Neu-, Zu- oder Umbau von Gebäuden darf nur auf Grundflächen
 bewilligt werden, für die eine Bauplatzbewilligung nach Maßgabe
 der Bestimmungen der §§ 4 bis 7 vorliegt oder gleichzeitig mit
 der Baubewilligung erteilt wird._ (3 Punkte)
+
+[LINK](https://www.ris.bka.gv.at/eli/lgbl/OB/1994/66/P3/LOO40013689?Position=1&Abfrage=Landesnormen&Bundesland=Ober%C3%B6sterreich&BundeslandDefault=Ober%C3%B6sterreich&Index=&Titel=BauO&Gesetzesnummer=&VonParagraf=&VonAnlage=&Kundmachungsnummer=&FassungVom=16.03.2017&VonInkrafttretedatum=&BisInkrafttretedatum=&VonAusserkrafttretedatum=&BisAusserkrafttretedatum=&ImRisSeitVonDatum=&ImRisSeitBisDatum=)
+
 -   **Handelt es sich um Landes- oder Bundesrecht**
+
+    Landesrecht
+
 -   **Wie lautet der Index**
+
+    93 Bauwesen
+
 -   **Wann wurde dieses Gesetz das letzte Mal geändert
     (Datum der Kundmachung)**
+    
+    Zuletzt aktualisiert am 08.05.2013
