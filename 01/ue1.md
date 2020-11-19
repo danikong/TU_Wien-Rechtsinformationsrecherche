@@ -31,22 +31,24 @@ _(Rechercheprozess: suchen im RIS nach COVID-19-Maßnahmenverordnung)_
 
 (3 Punkte)
 
+[Link](https://www.ris.bka.gv.at/eli/bgbl/i/2019/29/P0/NOR40223105?ResultFunctionToken=6eb7ce44-e11b-4329-b5e3-9c8e872f8be6&Position=1&SkipToDocumentPage=True&Abfrage=Bundesnormen&Kundmachungsorgan=&Index=&Titel=Ziviltechnikergesetz+2019&Gesetzesnummer=&VonArtikel=&BisArtikel=&VonParagraf=&BisParagraf=&VonAnlage=&BisAnlage=&Typ=&Kundmachungsnummer=&Unterzeichnungsdatum=&FassungVom=19.11.2020&VonInkrafttretedatum=&BisInkrafttretedatum=&VonAusserkrafttretedatum=&BisAusserkrafttretedatum=&NormabschnittnummerKombination=Und&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=)
+
 -   **Wann wurde das ZTG 2019 zuletzt geändert**
 
-    06.05.2020
-    [Link](https://www.ris.bka.gv.at/eli/bgbl/i/2019/29/P119/NOR40223108?ResultFunctionToken=32f95389-8e0d-4455-b95d-6becedbebdf4&Position=1&Sort=1%7cDesc&Abfrage=Bundesnormen&Kundmachungsorgan=&Index=&Titel=&Gesetzesnummer=&VonArtikel=&BisArtikel=&VonParagraf=&BisParagraf=&VonAnlage=&BisAnlage=&Typ=&Kundmachungsnummer=&Unterzeichnungsdatum=&FassungVom=16.11.2020&VonInkrafttretedatum=&BisInkrafttretedatum=&VonAusserkrafttretedatum=&BisAusserkrafttretedatum=&NormabschnittnummerKombination=Und&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=Ziviltechnikergesetz)
+    Zuletzt geändert durch BGBl. I Nr. 32/2020, am 5.5.2020.
 
 -   **Aufgrund welchen Gesetzes**
 
-    [Link](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010625&FassungVom=2020-11-16&Artikel=&Paragraf=118&Anlage=&Uebergangsrecht=)
+    §119 in der Fassung des Bundesgesetzes
+
+    [Link Budgetausschusses über den Antrag 441/A](https://www.parlament.gv.at/PAKT/VHG/XXVII/I/I_00144/index.shtml)
+
+    [Link 441/A](https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_00441/index.shtml)
 
 -   **Von welchen Personen wurde der Initiativantrag zur Änderung eingebracht**
 
-    Eva-Maria Himmelbauer, BSc
+    Der Antrag wurde von Peter Haubner und Dr. Elisabeth Götze eingebracht.
 
-    [Link](https://www.parlament.gv.at/PAKT/VHG/XXVI/NRSITZ/NRSITZ_00068/TO_03861997.pdf)
-
-    _(BGBl oben --> Nummer der Nationalratssitzung --> Tagesordnung)_
 
 * * *
 
@@ -59,7 +61,8 @@ _(Rechercheprozess: suchen im RIS nach COVID-19-Maßnahmenverordnung)_
 -   **Wann wurde die COVID-19-Schutzmaßnahmenverordnung zuletzt geändert**
 
     [Link: COVID-19-Schutzmaßnahmenverordnung](https://www.ris.bka.gv.at/eli/bgbl/ii/2020/463/P0/NOR40227142?ResultFunctionToken=5a2ea9ee-1ab8-4058-94b6-64e8bafb5119&Position=1&SkipToDocumentPage=True&Abfrage=Bundesnormen&Kundmachungsorgan=&Index=&Titel=&Gesetzesnummer=&VonArtikel=&BisArtikel=&VonParagraf=&BisParagraf=&VonAnlage=&BisAnlage=&Typ=&Kundmachungsnummer=&Unterzeichnungsdatum=&FassungVom=16.11.2020&VonInkrafttretedatum=&BisInkrafttretedatum=&VonAusserkrafttretedatum=&BisAusserkrafttretedatum=&NormabschnittnummerKombination=Und&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=COVID-19-Schutzma%c3%9fnahmenverordnung)
-    | Änderung                  | Anderungsdatum |
+
+    | Änderung                  | Änderungsdatum |
     | :------------------------ | :------------- |
     | BGBl. II Nr. 472/2020     | 10.11.2020     |
     | BGBl. II Nr. 476/2020     | 11.11.2020     |
@@ -178,11 +181,6 @@ und 79/08 und in welcher Hauptgruppe ist Rechtswissenschaften gelistet**
     - Untergruppe: 79/08 Rechtswissenschaft
 
 
-
-
-
-
-
 * * *
 
 ## Beispiel 8
@@ -240,12 +238,13 @@ allergische und entzündliche Reaktionen zu erfolgen._ (4 Punkte)
 
 -   **Wie lautet die Geschäftszahl der Entscheidung**
 
-    (OGH - Urteil)[https://www.ris.bka.gv.at/Dokument.wxe?ResultFunctionToken=daf37304-6f75-4472-bd9b-29df8c6bf39f&Position=1&Abfrage=Justiz&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&AenderungenSeit=Undefined&SucheNachRechtssatz=False&SucheNachText=True&GZ=4Ob115%2f18t&VonDatum=&BisDatum=16.07.2018&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Dokumentnummer=JJT_20180611_OGH0002_0040OB00115_18T0000_000]
+    [OGH - Urteil](https://www.ris.bka.gv.at/Dokument.wxe?ResultFunctionToken=daf37304-6f75-4472-bd9b-29df8c6bf39f&Position=1&Abfrage=Justiz&Gericht=&Rechtssatznummer=&Rechtssatz=&Fundstelle=&AenderungenSeit=Undefined&SucheNachRechtssatz=False&SucheNachText=True&GZ=4Ob115%2f18t&VonDatum=&BisDatum=16.07.2018&Norm=&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=&Dokumentnummer=JJT_20180611_OGH0002_0040OB00115_18T0000_000)
 
     Geschäftszahl: 4Ob115/18t
 
 -   **Wo wurde die Verordnung kundgemacht**
 
+    Im Bundesgesetzblatt
     [BGBl II Nr 141/2003](https://www.ris.bka.gv.at/Dokumente/BgblPdf/2003_141_2/2003_141_2.pdf)
 
 -   **Wann erfolgte die letzte Änderung der Verordnung**
@@ -278,5 +277,7 @@ gegoogelt -> [Link](https://www.ris.bka.gv.at/eli/lgbl/OB/1994/66/P3/LOO40013689
 -   **Wann wurde dieses Gesetz das letzte Mal geändert
     (Datum der Kundmachung)**
 
-    Zuletzt aktualisiert am 08.05.2013
+    Letzte Aenderung gueltig seit 01.07.2013 und kundgemacht am **30.04.2013**
+    im LGBl. Nr. 34/2013
+
     ![alle Fassungen](img/bsp10_01.png)
