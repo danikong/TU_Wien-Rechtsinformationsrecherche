@@ -104,11 +104,24 @@ _Der OGH beurteilte ein freundschaftliches Gerangel zwischen Jugendlichen auf ei
 _Die Jugendschutzgesetze fallen heutzutage in Österreich in die Zuständigkeit der Bundesländer. Aus diesem Grund gibt es neun unterschiedliche Fassungen, die je nach Aufenthaltsort bis zum 18. Lebensjahr gelten. Im Theresianischen Gesetzbuch musste man hingegen erst verbieten, Kinder gegen Krankheiten in den Ofen zu stecken._
 
 - **Wie lautet die Stammfassung des Wiener Jugendschutzgesetzes**
+
+    [RIS](https://www.ris.bka.gv.at/eli/lgbl/WI/2002/17/P0/LWI40005039?ResultFunctionToken=62c1efb6-678b-4075-b25f-df6e564d05b8&Position=1&SkipToDocumentPage=True&Abfrage=Landesnormen&Kundmachungsorgan=&Bundesland=Wien&BundeslandDefault=Wien&Index=&Titel=&Gesetzesnummer=&VonArtikel=&BisArtikel=&VonParagraf=&BisParagraf=&VonAnlage=&BisAnlage=&Typ=&Kundmachungsnummer=&Unterzeichnungsdatum=&FassungVom=23.11.2020&VonInkrafttretedatum=&BisInkrafttretedatum=&VonAusserkrafttretedatum=&BisAusserkrafttretedatum=&NormabschnittnummerKombination=Und&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=Jugendschutzgesetz)
+
+    StF.: LGBl. Nr. 17/2002
+
 - **In welchem Kundmachungsorgan findet sich das historische Gesetz über Kinderarbeit und über die Arbeitszeit der Jugendlichen**
+
+    BGBl. Nr. 599/1987
+
+    [RIS](https://www.ris.bka.gv.at/eli/bgbl/1987/599/P0/NOR40122527?ResultFunctionToken=da8c9a5b-fdbb-47ac-8f05-5010bd1d4551&Position=1&SkipToDocumentPage=True&Abfrage=Bundesnormen&Kundmachungsorgan=&Index=&Titel=&Gesetzesnummer=&VonArtikel=&BisArtikel=&VonParagraf=&BisParagraf=&VonAnlage=&BisAnlage=&Typ=&Kundmachungsnummer=&Unterzeichnungsdatum=&FassungVom=23.11.2020&VonInkrafttretedatum=&BisInkrafttretedatum=&VonAusserkrafttretedatum=&BisAusserkrafttretedatum=&NormabschnittnummerKombination=Und&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=Bundesgesetz+%c3%bcber+die+Besch%c3%a4ftigung+von+Kindern+und+Jugendlichen+1987+-)
+
 - **Wie lautet die Nummer des LGBL zum Gesetz vom 28. Jänner 1972 zum Schutz der Jugend**
 
+    LGBL Nr. 7/1972
 
+    [LGBLs von 1972](http://alex.onb.ac.at/cgi-content/alex?apm=0&aid=lgw&datum=1972)
 
+    [LGBL Nr. 7/1972](http://alex.onb.ac.at/cgi-content/alex?aid=lgw&datum=1972&page=21&size=45)
 
 
 
