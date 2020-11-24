@@ -60,6 +60,7 @@ Außerkrafttretensdatum: 31.12.2020
 **Wie ist der Stand des parlamentarischen Verfahrens zum COVID-19 Gesetz? Gibt es eine Regierungsvorlage dazu? Wann wurde es im NR eingebracht?**
 
 - 15.03.2020 - Beschluss im Bundesrat 16/BNR
+- Nein, hierbei handelt es sich um einen Initiativantrag (Antrag von Woeginger und Maurer).
 - 14.03.2020 - Einbringung im Nationalrat
 
 [Parlament](https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_00396/index.shtml)
