@@ -49,11 +49,10 @@ Außerkrafttretensdatum: 31.12.2020
 - EuroVoc: "3211 Unterrichtswesen - Hochschulausbildung"
 - BGBl vom letzten Stand: [BGBl. I Nr. 131/2015](https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2015_I_131)
 
-[RIS Gesetz](https://www.ris.bka.gv.at/eli/bgbl/1981/341/P0/NOR11009705?ResultFunctionToken=40d0b1a8-5b27-404e-b72b-2f878fefb7b9&Position=1&SkipToDocumentPage=True&Abfrage=Gesamtabfrage&SearchInAsylGH=True&SearchInAvn=True&SearchInAvsv=True&SearchInBegut=True&SearchInBgblAlt=True&SearchInBgblAuth=True&SearchInBgblPdf=True&SearchInBks=True&SearchInBundesnormen=True&SearchInDok=True&SearchInDsk=True&SearchInErlaesse=True&SearchInGbk=True&SearchInGemeinderecht=True&SearchInJustiz=True&SearchInKmGer=True&SearchInBvwg=True&SearchInLvwg=True&SearchInLgbl=True&SearchInLgblNO=True&SearchInLgblAuth=True&SearchInLandesnormen=True&SearchInNormenliste=True&SearchInPruefGewO=True&SearchInPvak=True&SearchInRegV=True&SearchInSpg=True&SearchInUbas=True&SearchInUmse=True&SearchInUpts=True&SearchInUvs=True&SearchInVerg=True&SearchInVfgh=True&SearchInVwgh=True&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=Forschungsorganisationsgesetz)
+(von: [RIS Gesetz](https://www.ris.bka.gv.at/eli/bgbl/1981/341/P0/NOR11009705?ResultFunctionToken=40d0b1a8-5b27-404e-b72b-2f878fefb7b9&Position=1&SkipToDocumentPage=True&Abfrage=Gesamtabfrage&SearchInAsylGH=True&SearchInAvn=True&SearchInAvsv=True&SearchInBegut=True&SearchInBgblAlt=True&SearchInBgblAuth=True&SearchInBgblPdf=True&SearchInBks=True&SearchInBundesnormen=True&SearchInDok=True&SearchInDsk=True&SearchInErlaesse=True&SearchInGbk=True&SearchInGemeinderecht=True&SearchInJustiz=True&SearchInKmGer=True&SearchInBvwg=True&SearchInLvwg=True&SearchInLgbl=True&SearchInLgblNO=True&SearchInLgblAuth=True&SearchInLandesnormen=True&SearchInNormenliste=True&SearchInPruefGewO=True&SearchInPvak=True&SearchInRegV=True&SearchInSpg=True&SearchInUbas=True&SearchInUmse=True&SearchInUpts=True&SearchInUvs=True&SearchInVerg=True&SearchInVfgh=True&SearchInVwgh=True&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=Forschungsorganisationsgesetz),
+[Parlament](https://www.parlament.gv.at/PAKT/VHG/XXV/I/I_00797/index.shtml))
 
-
-
-[Parlament](https://www.parlament.gv.at/PAKT/VHG/XXV/I/I_00797/index.shtml)
+>>>>
 
 * * *
 
@@ -64,7 +63,7 @@ Außerkrafttretensdatum: 31.12.2020
 
 [Parlament](https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_00396/index.shtml)
 
-
+>>>>
 
 * * *
 
@@ -160,7 +159,7 @@ _Die Jugendschutzgesetze fallen heutzutage in Österreich in die Zuständigkeit 
 ## Beispiel 9
 **Was war der auslösende Vorgang zum Beschlussantrag PGL-536356-2020-KVP/GAT**
 
->"Ich fürchte mich nicht vor Corona, Corona ist nicht gefährlich. Da ist der Koran gefährlicher, meine Lieben, als Corona" - FPOe-Chef Norbert Hofer
+>"Ich fürchte mich nicht vor Corona, Corona ist nicht gefährlich. Da ist der Koran gefährlicher, meine Lieben, als Corona." - FPOe-Chef Norbert Hofer
 
 Diese Aussage wurde zum ausloeser des oben genannten Beschlussantrags.
 
@@ -173,14 +172,16 @@ Diese Aussage wurde zum ausloeser des oben genannten Beschlussantrags.
 
 ## Beispiel 10
 _Im Ibiza Ausschuss wurde am 13. Sitzung vom 9. September 2020 eine Person vernommen_
+
 - **Wer war diese Person**
 
     Wolfgang Sobotka (ÖVP)
 
     (von: [Sitzungsliste](https://www.parlament.gv.at/PAKT/VHG/XXVII/A-USA/A-USA_00002_00906/index.shtml#tab-Sitzungsueberblick)
-    &nbsp; -> &nbsp;
-    [13. Sitzung](https://www.parlament.gv.at/PAKT/VHG/XXVII/A-USA/A-USA_00002_00906/TO_04561557.pdf); &nbsp;
+    ->
+    [13. Sitzung](https://www.parlament.gv.at/PAKT/VHG/XXVII/A-USA/A-USA_00002_00906/TO_04561557.pdf),
     [derStandard](https://www.derstandard.at/story/2000119473671/ladungsliste-fuer-ibiza-u-auschuss-veroeffentlicht))
+
 
 - **Wann findet die nächste Sitzung statt**
 
