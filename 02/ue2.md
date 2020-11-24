@@ -125,7 +125,7 @@ _Der OGH beurteilte ein freundschaftliches Gerangel zwischen Jugendlichen auf ei
 
 - Die Entscheidung wurde in 34 Ausgaben von 18 verschiedenen Zeitschriften veroeffentlicht. 
 
->>>>
+- es 17 Rechtssaetze dazu
 
 
 
