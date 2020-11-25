@@ -152,7 +152,7 @@ _Der OGH beurteilte ein freundschaftliches Gerangel zwischen Jugendlichen auf ei
 
 
 ## Beispiel 7
-**In wie vielen Zeitschriften in der RDB ist die Entscheidung OGH 6 Ob 146/18s (Haftung des Reiseveranstalters) veröffentlicht (beurteilen Sie dies nach der Vorschau)? Wie viele Rechtssätze gibt dazu?**
+**In wie vielen Zeitschriften in der RDB ist die Entscheidung OGH 6 Ob 146/18s (Haftung des Reiseveranstalters) veröffentlicht (beurteilen Sie dies nach der Vorschau)? Wie viele Rechtssätze gibt es dazu?**
 
 - Die Entscheidung wurde in 34 Ausgaben von 18 verschiedenen Zeitschriften veroeffentlicht.
 - es 17 Rechtssaetze dazu
