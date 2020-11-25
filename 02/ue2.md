@@ -26,7 +26,11 @@ Keine Bedenken gegen [§ 2 COVID-19-MaßnahmenG](https://360.lexisnexis.at/d/L-2
 
 (von: [Link](https://360.lexisnexis.at/d/entscheidungen-ris/vfgh_v3632020/u_verfassung_VfGH_2020_JFT_20200714_20V_98c362de47))
 
+
+
 * * *
+
+
 
 ## Beispiel 2
 **Wie lautet die Stammfassung des Gesetzes vom 16. April 2020 über Maßnahmen zu COVID-19 in Verfahren der Raumplanung im Burgenland. Wann tritt dieses Gesetz außer Kraft**
@@ -40,32 +44,57 @@ Außerkrafttretensdatum: 31.12.2020
 
 (von: [RIS](https://www.ris.bka.gv.at/eli/lgbl/BU/2020/25/P0/LBG40022491?ResultFunctionToken=e042da39-1b83-4153-bc8f-b79ef2eb19cc&Position=1&SkipToDocumentPage=True&Abfrage=Landesnormen&Kundmachungsorgan=&Bundesland=Burgenland&BundeslandDefault=Burgenland&Index=&Titel=&Gesetzesnummer=&VonArtikel=&BisArtikel=&VonParagraf=&BisParagraf=&VonAnlage=&BisAnlage=&Typ=&Kundmachungsnummer=&Unterzeichnungsdatum=&FassungVom=23.11.2020&VonInkrafttretedatum=&BisInkrafttretedatum=&VonAusserkrafttretedatum=&BisAusserkrafttretedatum=&NormabschnittnummerKombination=Und&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=COVID-19))
 
+
+
 * * *
+
+
 
 ## Beispiel 3
 **Wie ist der Stand des parlamentarischen Verfahrens zum Forschungsorganisationsgesetz. Wie lautet der EuroVoc dazu? Wie lautet die Nr. des entsprechenden BGBl?**
 
-- Stand: Plenarberatungen BR
+
+- Status: Beschlossen im Bundesrat 87/BNR
+- EuroVoc:
+    - Wirtschaft
+        - 3206 Bildung - Bildungspolitik
+        - 3216 Organisation des Unterrichtswesens - Organisation des Unterrichtswesens
+    - Wissenschaften
+        - 6416 Forschung und geistiges Eigentum - Forschung
+- Bundesgesetzblatt I Nr. 75/2020
+
+(von: [Forschungsfinanzierungsnovelle 20202](https://www.parlament.gv.at/PAKT/VHG/XXVII/I/I_00239/index.shtml))
+
+
+<!-- - Stand: Plenarberatungen BR
 - EuroVoc: "3211 Unterrichtswesen - Hochschulausbildung"
 - BGBl vom letzten Stand: [BGBl. I Nr. 131/2015](https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=BgblAuth&Dokumentnummer=BGBLA_2015_I_131)
 
 (von: [RIS Gesetz](https://www.ris.bka.gv.at/eli/bgbl/1981/341/P0/NOR11009705?ResultFunctionToken=40d0b1a8-5b27-404e-b72b-2f878fefb7b9&Position=1&SkipToDocumentPage=True&Abfrage=Gesamtabfrage&SearchInAsylGH=True&SearchInAvn=True&SearchInAvsv=True&SearchInBegut=True&SearchInBgblAlt=True&SearchInBgblAuth=True&SearchInBgblPdf=True&SearchInBks=True&SearchInBundesnormen=True&SearchInDok=True&SearchInDsk=True&SearchInErlaesse=True&SearchInGbk=True&SearchInGemeinderecht=True&SearchInJustiz=True&SearchInKmGer=True&SearchInBvwg=True&SearchInLvwg=True&SearchInLgbl=True&SearchInLgblNO=True&SearchInLgblAuth=True&SearchInLandesnormen=True&SearchInNormenliste=True&SearchInPruefGewO=True&SearchInPvak=True&SearchInRegV=True&SearchInSpg=True&SearchInUbas=True&SearchInUmse=True&SearchInUpts=True&SearchInUvs=True&SearchInVerg=True&SearchInVfgh=True&SearchInVwgh=True&ImRisSeitVonDatum=&ImRisSeitBisDatum=&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=Forschungsorganisationsgesetz),
-[Parlament](https://www.parlament.gv.at/PAKT/VHG/XXV/I/I_00797/index.shtml))
+[Parlament](https://www.parlament.gv.at/PAKT/VHG/XXV/I/I_00797/index.shtml)) -->
 
->>>>
+
 
 * * *
+
+
 
 ## Beispiel 4
 **Wie ist der Stand des parlamentarischen Verfahrens zum COVID-19 Gesetz? Gibt es eine Regierungsvorlage dazu? Wann wurde es im NR eingebracht?**
 
+
+- 15.03.2020 - Beschluss im Bundesrat 16/BNR
+- Nein, hierbei handelt es sich um einen Initiativantrag (Antrag von Woeginger und Maurer).
 - 14.03.2020 - Einbringung im Nationalrat
 
-[Parlament](https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_00396/index.shtml)
 
->>>>
+(von: [Parlament](https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_00396/index.shtml))
+
+
 
 * * *
+
+
 
 ## Beispiel 5
 _Der kleine Bub, der in Wien-Donaustadt von einem Rottweiler attackiert wurde, ist im Krankenhaus gestorben. Rottweiler stehen auf der Liste der gefährlichen Hunderassen, deren Besitzer_innen müssen den Hundeführschein machen. Wo ist die entsprechende Prüfung geregelt?_
@@ -93,7 +122,10 @@ _Der kleine Bub, der in Wien-Donaustadt von einem Rottweiler attackiert wurde, i
     Id(116218)
 
 
+
 * * *
+
+
 
 ## Beispiel 6
 _Der OGH beurteilte ein freundschaftliches Gerangel zwischen Jugendlichen auf einer Badeinsel mit dem Ziel, sich wechselseitig ins Wasser zu werfen, als sportähnliche Betätigung nach den Sonderregeln für die Sportausübung._
@@ -110,24 +142,31 @@ _Der OGH beurteilte ein freundschaftliches Gerangel zwischen Jugendlichen auf ei
 
     2 (OeJZ und DiePresse)
 
-    [OeJZ](https://rdb.manz.at/document/rdb.tso.ENoejzevblls2020221104?execution=e1s5&highlight=Rangelei+Badeinsel),
-    [DiePresse](https://rdb.manz.at/document/rdb.tso.LIdiepresse20204303?execution=e1s5&highlight=Rangelei+Badeinsel)
-
+    (von: [OeJZ](https://rdb.manz.at/document/rdb.tso.ENoejzevblls2020221104?execution=e1s5&highlight=Rangelei+Badeinsel),
+    [DiePresse](https://rdb.manz.at/document/rdb.tso.LIdiepresse20204303?execution=e1s5&highlight=Rangelei+Badeinsel))
 
 
 
 * * *
+
+
 
 ## Beispiel 7
 **In wie vielen Zeitschriften in der RDB ist die Entscheidung OGH 6 Ob 146/18s (Haftung des Reiseveranstalters) veröffentlicht (beurteilen Sie dies nach der Vorschau)? Wie viele Rechtssätze gibt dazu?**
 
+- Die Entscheidung wurde in 34 Ausgaben von 18 verschiedenen Zeitschriften veroeffentlicht.
+- es 17 Rechtssaetze dazu
 
-
->>>>
+(von:
+[RIS-Entscheidungstext](https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20180831_OGH0002_0060OB00146_18S0000_000),
+[RIS-Rechtssaetze](https://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&Dokumentnummer=JJT_20180831_OGH0002_0060OB00146_18S0000_000)
+)
 
 
 
 * * *
+
+
 
 ## Beispiel 8
 _Die Jugendschutzgesetze fallen heutzutage in Österreich in die Zuständigkeit der Bundesländer. Aus diesem Grund gibt es neun unterschiedliche Fassungen, die je nach Aufenthaltsort bis zum 18. Lebensjahr gelten. Im Theresianischen Gesetzbuch musste man hingegen erst verbieten, Kinder gegen Krankheiten in den Ofen zu stecken._
@@ -156,6 +195,8 @@ _Die Jugendschutzgesetze fallen heutzutage in Österreich in die Zuständigkeit 
 
 * * *
 
+
+
 ## Beispiel 9
 **Was war der auslösende Vorgang zum Beschlussantrag PGL-536356-2020-KVP/GAT**
 
@@ -168,7 +209,11 @@ Diese Aussage wurde zum ausloeser des oben genannten Beschlussantrags.
 [OTS](https://www.ots.at/presseaussendung/OTS_20200624_OTS0191/70-wiener-gemeinderat-4);
 [derStandard Query](https://www.derstandard.at/search?n=&fd=2020-06-15&td=2020-06-25&s=score&query=Norbert+hofer))
 
+
+
 * * *
+
+
 
 ## Beispiel 10
 _Im Ibiza Ausschuss wurde am 13. Sitzung vom 9. September 2020 eine Person vernommen_
