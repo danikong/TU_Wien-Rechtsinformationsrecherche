@@ -1,5 +1,5 @@
 # Rechtsinformationsrecherche im Internet
-
+## Uebung 2
 #### Daniel Bartolot (01526618)
 
 # Uebersicht
@@ -140,7 +140,7 @@ _Der OGH beurteilte ein freundschaftliches Gerangel zwischen Jugendlichen auf ei
 
 - **Wie viele Zeitschriften haben laut RDB dieses Thema behandelt?**
 
-    2 (OeJZ und DiePresse)
+    2 Zeitschriften (OeJZ und DiePresse)
 
     (von: [OeJZ](https://rdb.manz.at/document/rdb.tso.ENoejzevblls2020221104?execution=e1s5&highlight=Rangelei+Badeinsel),
     [DiePresse](https://rdb.manz.at/document/rdb.tso.LIdiepresse20204303?execution=e1s5&highlight=Rangelei+Badeinsel))
