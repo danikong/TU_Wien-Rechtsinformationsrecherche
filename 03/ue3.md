@@ -24,7 +24,7 @@ _EU-Staaten dürfen die kurzzeitige Vermietung einer Wohnung an Touristen genehm
 - **Wer sind die Parteien dieses Verfahrens**
 
 
-- **Welches Gericht hat die „Frage“ beim EuGH vorgelegt**
+- **Welches Gericht hat die "Frage" beim EuGH vorgelegt**
 
 
 - **Wer war der Berichterstatter im EuGH-Verfahren**
@@ -56,7 +56,7 @@ _Im Rahmen eines vom OGH angestrengten Vorabentscheidungsverfahrens im Jahr 2011
 
 
 ## Beispiel 3
-_Ein Frischkäse, der in den Niederlanden produziert wird, hat zu einem Streit über Geschmack geführt. Die Frage, mit der sich der EuGH zu beschäftigen hatte, war, ob der Geschmack des Milchprodukts „einzigartig“ sei. Nachdem nämlich ein Mitbewerber den „Witte Wievenkaas“ auf den Markt gebracht hatte, war es mit der Einzigartigkeit vorbei, denn der Käse schmeckte genau wie der „Heksenkaas“. Das niederländische Gericht, das darüber zu entscheiden hatte, wollte jedoch vorweg geklärt wissen, ob es überhaupt nach EU-Recht möglich ist, Geschmack urheberrechtlich zu schützen. Diese Frage war bis dahin noch nicht geklärt worden._
+_Ein Frischkäse, der in den Niederlanden produziert wird, hat zu einem Streit über Geschmack geführt. Die Frage, mit der sich der EuGH zu beschäftigen hatte, war, ob der Geschmack des Milchprodukts "einzigartig" sei. Nachdem nämlich ein Mitbewerber den "Witte Wievenkaas" auf den Markt gebracht hatte, war es mit der Einzigartigkeit vorbei, denn der Käse schmeckte genau wie der "Heksenkaas". Das niederländische Gericht, das darüber zu entscheiden hatte, wollte jedoch vorweg geklärt wissen, ob es überhaupt nach EU-Recht möglich ist, Geschmack urheberrechtlich zu schützen. Diese Frage war bis dahin noch nicht geklärt worden._
 
 - **Wie lautet die Geschäftszahl und Datum des Urteils**
 
