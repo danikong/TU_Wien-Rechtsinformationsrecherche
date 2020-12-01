@@ -205,11 +205,14 @@ _Hingegen hat der EuGH entschieden, dass der Goldhase nicht über genügend spez
 -   **Was war die rechtliche Grundlage dieser EuGH Entscheidung**
 
     - Gemeinschaftsrecht
-        - Art. 51 Abs. 1 Buchst. b der Verordnung Nr. 40/94:
+        - Art. 51 Abs. 1 Buchst. b der Verordnung Nr. 40/94
 
     - Nationales Recht
         - § 34 Abs. 1 des Markenschutzgesetzes (BGBl 1970/260)
         - § 9 Abs. 3 des Bundesgesetzes gegen den unlauteren Wettbewerb (BGBl 1984/448)
+
+
+        
 * * *
 
 
