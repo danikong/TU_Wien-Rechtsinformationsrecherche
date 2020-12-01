@@ -67,6 +67,8 @@ _Im Rahmen eines vom OGH angestrengten Vorabentscheidungsverfahrens im Jahr 2011
 
 -   **Wie lautet die GZ der EuGH Entscheidung**
 
+    C‑138/11
+
     _(von:
     [Urteil](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62011CJ0138&qid=1606565442704)
     )_
@@ -202,9 +204,12 @@ _Hingegen hat der EuGH entschieden, dass der Goldhase nicht über genügend spez
 
 -   **Was war die rechtliche Grundlage dieser EuGH Entscheidung**
 
+    - Gemeinschaftsrecht
+        - Art. 51 Abs. 1 Buchst. b der Verordnung Nr. 40/94:
 
-
-
+    - Nationales Recht
+        - § 34 Abs. 1 des Markenschutzgesetzes (BGBl 1970/260)
+        - § 9 Abs. 3 des Bundesgesetzes gegen den unlauteren Wettbewerb (BGBl 1984/448)
 * * *
 
 
@@ -216,7 +221,7 @@ _Der EuGH hat die österreichische Klage gegen Staatshilfen für das geplante br
 
 -   **Wie lautet die Geschäftszahl der EuGH Entscheidung**
 
-    Geschäftszahl: C-594/18
+    Geschäftszahl: C-594/18 P
 
     _(von:
     [Curia](http://curia.europa.eu/juris/liste.jsf?oqp=&for=&mat=or&jge=&td=%3BALL&jur=C%2CT%2CF&num=C-594%252F18&page=1&dates=&pcs=Oor&lg=&pro=&nat=or&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&language=de&avg=&cid=15455069)
@@ -238,7 +243,7 @@ _Der EuGH hat die österreichische Klage gegen Staatshilfen für das geplante br
 
 -   **Welche Sachgebiete sind betroffen**
 
-
+    Wettbewerb - Staatliche Beihilfen
 
 
 * * *
@@ -250,15 +255,16 @@ _Der EuGH hat die österreichische Klage gegen Staatshilfen für das geplante br
 
 -   **Wo und wie finden Sie das bilaterale Abkommen zwischen Österreich und Schweiz über die Anerkennung und Vollstreckung gerichtlicher Entscheidungen**
 
-    <h1>??????????</h1>
+    Das Abkommen steht im RIS zur Verfügung.
 
-    Auf der Webseite der Oesterreichischen Botschaft in Bern.
-    [Link](https://www.bmeia.gv.at/oeb-bern/oesterreich-in-der-schweiz/vertraege/?tx_bmeiadb_piresults%5BsearchType%5D=bilateralTreaty&tx_bmeiadb_piresults%5Buid%5D=1372&tx_bmeiadb_piresults%5Baction%5D=single&cHash=d3c7c0a8bbcca62fcda839dce6c589f9)
+    _(siehe: [RIS](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002036))_
+
+    <!-- Auf der Webseite der Oesterreichischen Botschaft in Bern.
+    [Link](https://www.bmeia.gv.at/oeb-bern/oesterreich-in-der-schweiz/vertraege/?tx_bmeiadb_piresults%5BsearchType%5D=bilateralTreaty&tx_bmeiadb_piresults%5Buid%5D=1372&tx_bmeiadb_piresults%5Baction%5D=single&cHash=d3c7c0a8bbcca62fcda839dce6c589f9) -->
 
 -   **Wie lautet das entsprechende Bundesgesetzblatt**
 
-    - Vertrag: BGBl. Nr. 125/1962
-    - Nachfolgende Verträge: BGBl. Nr. 84/1968
+    BGBl. Nr. 125/1962
 
 
 
@@ -310,5 +316,3 @@ _Italien hat die Pandemie stark getroffen. Der Rat der EU hat vorgeschlagen, Ita
 
     Bundesgesetz, mit dem das KommAustria-Gesetz (KOG) geändert wird;
     [BGBl. I Nr. 47/2019](https://www.ris.bka.gv.at/eli/bgbl/I/2019/47)
-
-    <h1>????????????</h1>
